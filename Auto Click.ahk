@@ -1,4 +1,4 @@
-﻿#MaxThreadsPerHotkey 3
+﻿#MaxThreadsPerHotkey 2
 XButton2::
   toggle := !toggle
   Loop
